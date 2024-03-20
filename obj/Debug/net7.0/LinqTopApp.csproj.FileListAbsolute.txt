@@ -1,0 +1,15 @@
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\bin\Debug\net7.0\LinqTopApp.exe
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\bin\Debug\net7.0\LinqTopApp.deps.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\bin\Debug\net7.0\LinqTopApp.runtimeconfig.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\bin\Debug\net7.0\LinqTopApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\bin\Debug\net7.0\LinqTopApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\obj\Debug\net7.0\LinqTopApp.csproj.AssemblyReference.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\obj\Debug\net7.0\LinqTopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\obj\Debug\net7.0\LinqTopApp.AssemblyInfoInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\obj\Debug\net7.0\LinqTopApp.AssemblyInfo.cs
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\obj\Debug\net7.0\LinqTopApp.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\obj\Debug\net7.0\LinqTopApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\obj\Debug\net7.0\refint\LinqTopApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\obj\Debug\net7.0\LinqTopApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\obj\Debug\net7.0\LinqTopApp.genruntimeconfig.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\LinqTopApp\LinqTopApp\obj\Debug\net7.0\ref\LinqTopApp.dll
